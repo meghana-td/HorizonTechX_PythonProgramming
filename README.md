@@ -1,4 +1,5 @@
 # Horizon TechX-Python Programming
 This contains projects developed during the Horizon TechX Python Programming Internship.
 ## Projects
-### 1.
+### 1. Hangman Game
+### 2.
